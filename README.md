@@ -2,6 +2,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=AntonioBlago&repo=github-readme-stats)](https://github.com/AntonioBlago/github-readme-stats)
 
+[![Antonios stats](https://github-readme-stats.vercel.app/api/wakatime?username=AntonioBlago)](https://github.com/AntonioBlago/github-readme-stats)
 
 <!--
 **AntonioBlago/AntonioBlago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
