@@ -14,7 +14,7 @@
 					background-repeat:no-repeat;
 					background-position:10px center;
 					border-radius:3px;
-					background-image:url(https://ron.sh/content/images/size/w2000/2020/04/BuyMeACoffee@2x.png)
+					background-image:url('https://ron.sh/content/images/size/w2000/2020/04/BuyMeACoffee@2x.png')
 				}
 				img {
 					margin-left:2px;
