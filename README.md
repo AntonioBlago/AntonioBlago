@@ -2,8 +2,16 @@
 
 <a href="https://www.antonioblago.com"><img src="https://badgen.net/badge/homepage/antonioblago/green"></a>
 <a href="https://www.tenxassets.com"><img src="https://badgen.net/badge/Trending_stocks_and_cryptos/tenxassets.com/blue?icon=bitcoin"></a>
-<a href="https://antonioblago.medium.com"><img src="https://badgen.net/badge/medium/antonio.blago/green?icon=medium"></a>
-<a href="https://www.buymeacoffee.com/antonioblago"><img src="https://badgen.net/badge/Buymeacoffee/blue"></a>
+
+[![linkedin][linkedin-badge]][linkedin-url]
+[![facebook][facebook-badge]][facebook-url]
+[![instagram][instagram-badge]][instagram-url]
+[![medium][medium-badge]][medium-url]
+[![reddit][reddit-badge]][reddit-url]
+[![telegram-chat-url][telegram-chat-badge]][telegram-chat-url]
+
+<a href="https://www.buymeacoffee.com/antonioblago"><img src="https://git.io/JySno" height="40" align="center" alt="Buy Me a Coffee"></a>
+ 
 
 ### Bio 💬 
 
@@ -16,6 +24,13 @@ I deepened my skills by implementing a business intelligence suite at Ergon Inte
 and sharing the insights through my website and blog articles.
 
 Feel free to contact me on and let us talk about your strategy.
+
+### Languages
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 ### GitHub Stats ⚡
 
@@ -42,3 +57,26 @@ Feel free to contact me on and let us talk about your strategy.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@antonioblago/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@antonioblago/4" alt="Recent Article 0"> 
 
 
+<!-- images & badges -->
+[linkedin-badge]: https://img.shields.io/static/v1?color=2f72ac&label=%20&labelColor=396899&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge
+[facebook-badge]: https://img.shields.io/static/v1?color=3578ea&label=%20&labelColor=3d6ecc&logo=facebook&logoColor=ffffff&message=Facebook&style=for-the-badge
+[twitter-badge]: https://img.shields.io/static/v1?color=4aa0eb&label=%20&labelColor=548dcc&logo=twitter&logoColor=ffffff&message=Twitter&style=for-the-badge
+[instagram-badge]: https://img.shields.io/static/v1?color=d65a38&label=%20&labelColor=b54c2f&logo=instagram&logoColor=ffffff&message=Instagram&style=for-the-badge
+[keybase-badge]: https://img.shields.io/static/v1?color=3e66e2&label=%20&labelColor=163aa5&logo=keybase&logoColor=ffffff&message=Keybase&style=for-the-badge
+[reddit-badge]: https://img.shields.io/static/v1?color=ec5428&label=%20&labelColor=d44d24&logo=reddit&logoColor=ffffff&message=Reddit&style=for-the-badge
+[discord-badge]: https://img.shields.io/discord/781120293620023316?color=4cc27d&label=%20&labelColor=778bd0&logo=discord&logoColor=ffffff&style=for-the-badge
+[spotify-badge]: https://img.shields.io/static/v1?color=65d36e&label=%20&labelColor=59ba61&logo=spotify&logoColor=ffffff&message=Playlists&style=for-the-badge
+[lastfm-badge]: https://img.shields.io/static/v1?color=f23d33&label=%20&labelColor=d2322c&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAD1BMVEVhcAAAAADm5ub////z8/NuRTuJAAAAAXRSTlMAQObYZgAAALlJREFUeNrt1oEGA0EQg+Fl9v2fudB2yfg3ouhhAlTia6t7vVuTJ2YyqW9uiw2LkvgFlUBcBwVZZgJl8B7cKXAd3EQF1KMfD8k20PITAPpApyAg0LoTBDQOKA9AJQDOMqA8gIIaISCJgVUtDPBHkCQAE8kRyQARAImBfrnvFBCCAS+E30ESAsUAbsoJAujGXYb1DmzOS/LhmJsTTP+YFG6F/BlYvoXYu7shgueL6nFPONBvXkwmk7/mBUEHDmbmSQnAAAAAAElFTkSuQmCC&logoColor=ffffff&message=Last.fm&style=for-the-badge
+[patreon-badge]: https://img.shields.io/static/v1?color=ec5254&label=%20&labelColor=100f0d&logo=patreon&logoColor=ec5254&message=Patreon&style=for-the-badge
+[medium-badge]: https://img.shields.io/static/v1?color=292a2c&label=%20&labelColor=100f0d&logo=medium&logoColor=ffffff&message=Medium&style=for-the-badge
+[steam-badge]: https://img.shields.io/static/v1?color=333740&label=%20&labelColor=000000&logo=steam&logoColor=ffffff&message=Steam&style=for-the-badge
+[telegram-chat-badge]: https://img.shields.io/static/v1?color=438ebf&label=%20&labelColor=3181b0&logo=telegram&logoColor=ffffff&message=Chat&style=for-the-badge
+
+<!-- links / urls -->
+[linkedin-url]: https://linkedin.com/in/antonioblago
+[facebook-url]: https://facebook.com/Toni.Blabla
+[twitter-url]: https://twitter.com/pistoltoni
+[instagram-url]: https://instagram.com/rational_investing
+[reddit-url]: https://reddit.com/user/espressotoni
+[medium-url]: https://antonioblago.medium.com
+[telegram-chat-url]: https://t.me/tenxassets
