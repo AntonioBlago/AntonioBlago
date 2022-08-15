@@ -3,7 +3,7 @@
 <a href="https://www.antonioblago.com"><img src="https://badgen.net/badge/homepage/antonioblago/green"></a>
 <a href="https://www.tenxassets.com"><img src="https://badgen.net/badge/Trending_stocks_and_cryptos/tenxassets.com/blue?icon=bitcoin"></a>
 <a href="https://antonioblago.medium.com"><img src="https://badgen.net/badge/medium/antonio.blago/green?icon=medium"></a>
-<a href="https://www.tenxassets.com"><img src="https://badgen.net/badge/Trending_stocks_and_cryptos/tenxassets.com/blue?icon=bitcoin"></a>
+<a href="https://www.buymeacoffee.com/antonioblago"><img src="https://badgen.net/badge/Buymeacoffee/blue"></a>
 
 ### Bio 💬 
 
@@ -27,8 +27,8 @@ Feel free to contact me on and let us talk about your strategy.
 ### My Coding Stats ⚡
 <p float="left">
   <img src="https://wakatime.com/share/@antonioblago/f4c6c329-1220-41c7-8d54-ef8b6316934b.svg" width="100%" />
-  <img src="https://wakatime.com/share/@antonioblago/7a71e6f4-d9d0-4356-8e4c-c9cdeb85a14f.svg" width="100%" />
-  <img src="https://wakatime.com/share/@antonioblago/39b202da-c94d-4877-8f0b-598fe4b67650.svg" width="100%" /> 
+  <p align="center"> <img id = "center" src="https://wakatime.com/share/@antonioblago/7a71e6f4-d9d0-4356-8e4c-c9cdeb85a14f.svg" height="450em" /></p>
+  <p align="center"> <img src="https://wakatime.com/share/@antonioblago/39b202da-c94d-4877-8f0b-598fe4b67650.svg" height="450em"/> </p>
 </p>
 
 ### Blog 📫
@@ -40,6 +40,5 @@ Feel free to contact me on and let us talk about your strategy.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@antonioblago/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@antonioblago/3" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@antonioblago/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@antonioblago/4" alt="Recent Article 0"> 
-
 
 
