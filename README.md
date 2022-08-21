@@ -23,7 +23,7 @@ science journey during my studies at the German Sports University in Cologne, th
 of Technology, and the University of Calgary, Canada, with statistical analyses in Matlab and computer simulations. 
 I developed several bikefitting tools in python, check them out on my web page [antonioblago.com](https://www.antonioblago.com).
 
-I deepened my skills by implementing a business intelligence suite at Ergon International GmbH and am now working a s a data analyst for Erhardt + Partner Gmbh. During my free time, I enjoy developing financial market analysis tools [tenxassets.com](https://www.tenxassets.com) 
+I deepened my skills by implementing a business intelligence suite at Ergon International GmbH and am now working a s a data analyst for Ehrhardt + Partner Gmbh. During my free time, I enjoy developing financial market analysis tools [tenxassets.com](https://www.tenxassets.com) 
 and sharing the insights through my website and blog articles.
 
 Feel free to contact me on and let us talk about your strategy.
