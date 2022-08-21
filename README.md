@@ -9,9 +9,12 @@
 [![medium][medium-badge]][medium-url]
 [![reddit][reddit-badge]][reddit-url]
 [![telegram-chat-url][telegram-chat-badge]][telegram-chat-url]
+[![paypal][paypal-badge]][paypal-url]
+
 
 <a href="https://www.buymeacoffee.com/antonioblago"><img src="https://git.io/JySno" height="40" align="center" alt="Buy Me a Coffee"></a>
- 
+
+
 
 ### Bio 💬 
 
@@ -76,6 +79,7 @@ Feel free to contact me on and let us talk about your strategy.
 [medium-badge]: https://img.shields.io/static/v1?color=292a2c&label=%20&labelColor=100f0d&logo=medium&logoColor=ffffff&message=Medium&style=for-the-badge
 [steam-badge]: https://img.shields.io/static/v1?color=333740&label=%20&labelColor=000000&logo=steam&logoColor=ffffff&message=Steam&style=for-the-badge
 [telegram-chat-badge]: https://img.shields.io/static/v1?color=438ebf&label=%20&labelColor=3181b0&logo=telegram&logoColor=ffffff&message=Chat&style=for-the-badge
+[paypal-badge]:https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
 
 <!-- links / urls -->
 [linkedin-url]: https://linkedin.com/in/antonioblago
@@ -85,3 +89,4 @@ Feel free to contact me on and let us talk about your strategy.
 [reddit-url]: https://reddit.com/user/espressotoni
 [medium-url]: https://antonioblago.medium.com
 [telegram-chat-url]: https://t.me/tenxassets
+[paypal-url]: https://www.paypal.com/donate/?hosted_button_id=4VVNDJLCR7DCW
