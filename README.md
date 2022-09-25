@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://www.antonioblago.com"><img src="https://badgen.net/badge/homepage/antonioblago/green"></a>
+<a href="https://www.antonioblago.com"><img width="60rem" src="https://www.antonioblago.com/static/lib/logos/logo.png"></a>
 <a href="https://www.tenxassets.com"><img src="https://badgen.net/badge/Trending_stocks_and_cryptos/tenxassets.com/blue?icon=bitcoin"></a>
 
 [![linkedin][linkedin-badge]][linkedin-url]
