@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<a href="https://www.antonioblago.com"><img width="60rem" src="https://www.antonioblago.com/static/lib/logos/logo.png"></a>
-<a href="https://www.tenxassets.com"><img src="https://badgen.net/badge/Trending_stocks_and_cryptos/tenxassets.com/blue?icon=bitcoin"></a>
+<a href="https://www.antonioblago.de"><img width="60rem" src="https://www.antonioblago.com/static/lib/logos/logo.png"></a>
 
 [![linkedin][linkedin-badge]][linkedin-url]
 [![facebook][facebook-badge]][facebook-url]
@@ -15,18 +14,25 @@
 <a href="https://www.buymeacoffee.com/antonioblago"><img src="https://git.io/JySno" height="40" align="center" alt="Buy Me a Coffee"></a>
 
 
+## Bio 💬
 
-### Bio 💬 
+As a former sport scientist, I began my data science journey during my studies at the German Sports University in Cologne, the Karlsruhe Institute of Technology, and the University of Calgary, Canada – with statistical analyses in Matlab and computer simulations. Early on, I combined my analytical mindset with practical applications by developing several Python-based bike fitting tools, which I now showcase on [antonioblago.com](https://www.antonioblago.com).
 
-As a former sport scientist I started my data 
-science journey during my studies at the German Sports University in Cologne, the Karlsruhe Institute 
-of Technology, and the University of Calgary, Canada, with statistical analyses in Matlab and computer simulations. 
-I developed several bikefitting tools in python, check them out on my web page [antonioblago.com](https://www.antonioblago.com).
+Over the years, I expanded my expertise by implementing a business intelligence suite at Ergon International GmbH and currently work as a data analyst at Ehrhardt + Partner GmbH. My focus: transforming complex data into actionable insights for process optimization, automation, and strategic planning.
 
-I deepened my skills by implementing a business intelligence suite at Ergon International GmbH and am now working a s a data analyst for Ehrhardt + Partner Gmbh. During my free time, I enjoy developing financial market analysis tools [tenxassets.com](https://www.tenxassets.com) 
-and sharing the insights through my website and blog articles.
+In parallel, I specialize in **data-driven SEO** with a strong focus on scalable keyword analysis, SERP behavior, and technical performance audits. On my SEO-focused website [antonioblago.de](https://www.antonioblago.de), I share custom Python workflows, tools, and insights to help SEOs and content teams make smarter decisions. Topics include:
 
-Feel free to contact me on and let us talk about your strategy.
+- Keyword clustering at scale  
+- API-powered keyword research (e.g. DataForSEO)  
+- Opportunity scoring & topical gap analysis  
+- Technical SEO insights & SERP pattern mining  
+- SEO automation for editorial planning  
+
+My goal is to combine clean code with sharp SEO strategy – creating transparent, repeatable systems for measurable growth.
+
+In my free time, I enjoy building financial market analysis tools and documenting what I learn along the way via blog articles and tutorials.
+
+If you're interested in data-powered SEO workflows or want to collaborate on smarter content strategy: feel free to reach out!
 
 ### Languages
 
