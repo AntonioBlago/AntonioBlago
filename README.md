@@ -1,17 +1,13 @@
 ## Hi there 👋
 
-<a href="https://www.antonioblago.de"><img width="60rem" src="https://www.antonioblago.com/static/lib/logos/logo.png"></a>
+<a href="https://www.antonioblago.de"><img width="60rem" src="https://antonioblago.de/wp-content/uploads/2023/03/logo_seo_optimierung_antonio_blago.png"></a>
 
 [![linkedin][linkedin-badge]][linkedin-url]
 [![facebook][facebook-badge]][facebook-url]
 [![instagram][instagram-badge]][instagram-url]
 [![medium][medium-badge]][medium-url]
-[![reddit][reddit-badge]][reddit-url]
 [![telegram-chat-url][telegram-chat-badge]][telegram-chat-url]
 [![paypal][paypal-badge]][paypal-url]
-
-
-<a href="https://www.buymeacoffee.com/antonioblago"><img src="https://git.io/JySno" height="40" align="center" alt="Buy Me a Coffee"></a>
 
 
 ## Bio 💬
