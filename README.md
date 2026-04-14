@@ -69,7 +69,7 @@ How visible is your brand when people ask ChatGPT, Gemini or Claude? This framew
 
 ### Tech Stack
 
-`Python` `Flask` `MCP` `Claude API` `DataForSEO` `MySQL` `Pinecone` `Playwright` `Docker`
+`Python` `Flask` `FastAPI` `React` `MCP` `Claude API` `DataForSEO` `MySQL` `Pinecone` `Playwright` `Docker` `Tailwind`
 
 ### Keyword Study 2026
 
