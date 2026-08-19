@@ -5,8 +5,8 @@ SEO Freelancer & AI Engineer
 Building tools that connect SEO with AI -- from MCP servers and agent workflows to LLM visibility tracking.
 
 [![LinkedIn](https://img.shields.io/static/v1?color=2f72ac&label=%20&labelColor=396899&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge)](https://linkedin.com/in/antonioblago)
-[![Website](https://img.shields.io/static/v1?color=f6571e&label=%20&labelColor=d44d1a&logo=google-chrome&logoColor=ffffff&message=DE: antonioblago.de&style=for-the-badge)](https://antonioblago.de)
-[![Website](https://img.shields.io/static/v1?color=f6571e&label=%20&labelColor=d44d1a&logo=google-chrome&logoColor=ffffff&message=EN: antonioblago.com&style=for-the-badge)](https://antonioblago.com)
+[![Website](https://img.shields.io/static/v1?color=f6571e&label=%20&labelColor=d44d1a&logo=google-chrome&logoColor=ffffff&message=DE:antonioblago.de&style=for-the-badge)](https://antonioblago.de)
+[![Website](https://img.shields.io/static/v1?color=f6571e&label=%20&labelColor=d44d1a&logo=google-chrome&logoColor=ffffff&message=EN:antonioblago.com&style=for-the-badge)](https://antonioblago.com)
 ---
 
 ### Visibly AI -- SEO Copilot Platform
