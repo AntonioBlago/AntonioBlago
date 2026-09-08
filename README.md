@@ -19,11 +19,12 @@ SEO analysis platform with AI copilot, built for SEO freelancers and agencies. C
 - 6 specialized agents (Crawling, SEO Analyst, Strategist, Copywriter, Chief Editor, Consultant)
 - Automated PDF/HTML reports with Plotly charts
 - E-E-A-T tracking, keyword classification, revenue attribution
-- MCP server for Claude Code / Claude Desktop integration
+- MCP server for Claude Code / Claude Desktop integration, local (PyPI) or remote transport
+- Free [AI visibility check](https://app.visibly-ai.com/check): how often AI models name your brand, and what it costs you
 
 | Repo | What it does |
 |------|-------------|
-| [visiblyai-mcp-server](https://github.com/AntonioBlago/visiblyai-mcp-server) | MCP Server with 32 tools -- traffic, keywords, backlinks, OnPage, PageSpeed, SERP, Schema, hreflang. Published on [PyPI](https://pypi.org/project/visiblyai-mcp-server/). |
+| [visiblyai-mcp-server](https://github.com/AntonioBlago/visiblyai-mcp-server) | MCP server, v0.9.0 with 51 tools: traffic, keywords, backlinks, OnPage, PageSpeed, SERP, Schema, hreflang, plus read-only project data (query clusters, GA4, revenue, KPI scorecard, E-E-A-T, pages, articles) and content write-back. Published on [PyPI](https://pypi.org/project/visiblyai-mcp-server/). |
 
 ---
 
@@ -69,7 +70,7 @@ How visible is your brand when people ask ChatGPT, Gemini or Claude? This framew
 
 ### Tech Stack
 
-`Python` `Flask` `FastAPI` `React` `MCP` `Claude API` `DataForSEO` `MySQL` `Pinecone` `Playwright` `Docker` `Tailwind`
+`Python` `Flask` `FastAPI` `React` `MCP` `Claude API` `DataForSEO` `PostgreSQL` `Pinecone` `FalkorDB` `Playwright` `Docker` `Tailwind`
 
 ### Keyword Study 2026
 
