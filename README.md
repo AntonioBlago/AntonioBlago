@@ -15,16 +15,32 @@ Building tools that connect SEO with AI -- from MCP servers and agent workflows 
 
 SEO analysis platform with AI copilot, built for SEO freelancers and agencies. Connects Google Search Console, GA4 and DataForSEO into one interface with chat-based workflows.
 
-- 19 SEO skills (analysis, optimization, technical, content, reporting) orchestrated by AI
+- SEO skills for analysis, optimization, technical SEO, content and reporting
 - 6 specialized agents (Crawling, SEO Analyst, Strategist, Copywriter, Chief Editor, Consultant)
 - Automated PDF/HTML reports with Plotly charts
 - E-E-A-T tracking, keyword classification, revenue attribution
-- MCP server for Claude Code / Claude Desktop integration, local (PyPI) or remote transport
+- 83 MCP tools for Claude Code, OpenAI Codex, GitHub Copilot and other MCP clients, with local (PyPI) or remote transport
+- Article optimization skill: your agent writes, Visibly measures NSS, the agent improves the draft toward your target and returns the editor link
 - Free [AI visibility check](https://app.visibly-ai.com/check): how often AI models name your brand, and what it costs you
 
 | Repo | What it does |
 |------|-------------|
-| [visiblyai-mcp-server](https://github.com/AntonioBlago/visiblyai-mcp-server) | MCP server, v0.9.0 with 51 tools: traffic, keywords, backlinks, OnPage, PageSpeed, SERP, Schema, hreflang, plus read-only project data (query clusters, GA4, revenue, KPI scorecard, E-E-A-T, pages, articles) and content write-back. Published on [PyPI](https://pypi.org/project/visiblyai-mcp-server/). |
+| [visiblyai-mcp-server](https://github.com/AntonioBlago/visiblyai-mcp-server) | MCP server v0.12.1 with 83 tools for SEO analysis, project data and content workflows. Available on [PyPI](https://pypi.org/project/visiblyai-mcp-server/). |
+
+### Download the Visibly plugins
+
+| Client | Download | Installation |
+| --- | --- | --- |
+| Claude Code | [Plugin ZIP](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/download/plugins-v1.0.0/visibly-claude-1.0.0.zip) | [Claude setup](https://github.com/AntonioBlago/visiblyai-mcp-server/blob/master/PLUGINS.md#claude-code) |
+| OpenAI Codex | [Plugin ZIP](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/download/plugins-v1.0.0/visibly-codex-1.0.0.zip) | [Codex setup](https://github.com/AntonioBlago/visiblyai-mcp-server/blob/master/PLUGINS.md#openai-codex) |
+| GitHub Copilot CLI | [Skill plugin ZIP](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/download/plugins-v1.0.0/visibly-copilot-1.0.0.zip) | [Plugin + MCP setup](https://github.com/AntonioBlago/visiblyai-mcp-server/blob/master/PLUGINS.md#github-copilot-cli) |
+
+Install through the **public Visibly plugin marketplace** hosted in the repository,
+or download a ZIP from the [plugin releases](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/tag/plugins-v1.0.0).
+The agent writes with its own model; existing analysis, NSS scoring and draft saving
+use 0 Visibly credits. Agent usage and any new paid analysis are billed separately.
+These are community-distributed integrations, not listings in the providers' curated
+stores. Direct ChatGPT sign-in requires additional OAuth integration.
 
 ---
 
