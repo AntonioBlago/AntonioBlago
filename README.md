@@ -25,18 +25,18 @@ SEO analysis platform with AI copilot, built for SEO freelancers and agencies. C
 
 | Repo | What it does |
 |------|-------------|
-| [visiblyai-mcp-server](https://github.com/AntonioBlago/visiblyai-mcp-server) | MCP server v0.12.1 with 83 tools for SEO analysis, project data and content workflows. Available on [PyPI](https://pypi.org/project/visiblyai-mcp-server/). |
+| [visiblyai-mcp-server](https://github.com/AntonioBlago/visiblyai-mcp-server) | MCP server v0.13.0 with 84 tools for SEO analysis, project data and content workflows. Available on [PyPI](https://pypi.org/project/visiblyai-mcp-server/). |
 
 ### Download the Visibly plugins
 
 | Client | Download | Installation |
 | --- | --- | --- |
-| Claude Code | [Plugin ZIP](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/download/plugins-v1.0.0/visibly-claude-1.0.0.zip) | [Claude setup](https://github.com/AntonioBlago/visiblyai-mcp-server/blob/master/PLUGINS.md#claude-code) |
-| OpenAI Codex | [Plugin ZIP](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/download/plugins-v1.0.0/visibly-codex-1.0.0.zip) | [Codex setup](https://github.com/AntonioBlago/visiblyai-mcp-server/blob/master/PLUGINS.md#openai-codex) |
-| GitHub Copilot CLI | [Skill plugin ZIP](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/download/plugins-v1.0.0/visibly-copilot-1.0.0.zip) | [Plugin + MCP setup](https://github.com/AntonioBlago/visiblyai-mcp-server/blob/master/PLUGINS.md#github-copilot-cli) |
+| Claude Code | [Plugin ZIP](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/download/plugins-v1.0.1/visibly-claude-1.0.1.zip) | [Claude setup](https://github.com/AntonioBlago/visiblyai-mcp-server/blob/master/PLUGINS.md#claude-code) |
+| OpenAI Codex | [Plugin ZIP](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/download/plugins-v1.0.1/visibly-codex-1.0.1.zip) | [Codex setup](https://github.com/AntonioBlago/visiblyai-mcp-server/blob/master/PLUGINS.md#openai-codex) |
+| GitHub Copilot CLI | [Skill plugin ZIP](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/download/plugins-v1.0.1/visibly-copilot-1.0.1.zip) | [Plugin + MCP setup](https://github.com/AntonioBlago/visiblyai-mcp-server/blob/master/PLUGINS.md#github-copilot-cli) |
 
 Install through the **public Visibly plugin marketplace** hosted in the repository,
-or download a ZIP from the [plugin releases](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/tag/plugins-v1.0.0).
+or download a ZIP from the [plugin releases](https://github.com/AntonioBlago/visiblyai-mcp-server/releases/tag/plugins-v1.0.1).
 The agent writes with its own model; existing analysis, NSS scoring and draft saving
 use 0 Visibly credits. Agent usage and any new paid analysis are billed separately.
 These are community-distributed integrations, not listings in the providers' curated
