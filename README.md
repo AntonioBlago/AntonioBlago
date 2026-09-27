@@ -19,13 +19,20 @@ SEO analysis platform with AI copilot, built for SEO freelancers and agencies. C
 - 6 specialized agents (Crawling, SEO Analyst, Strategist, Copywriter, Chief Editor, Consultant)
 - Automated PDF/HTML reports with Plotly charts
 - E-E-A-T tracking, keyword classification, revenue attribution
-- 83 MCP tools for Claude Code, OpenAI Codex, GitHub Copilot and other MCP clients, with local (PyPI) or remote transport
+- 84 MCP tools for Claude Code, OpenAI Codex, GitHub Copilot and other MCP clients, with local (PyPI) or remote transport
 - Article optimization skill: your agent writes, Visibly measures NSS, the agent improves the draft toward your target and returns the editor link
 - Free [AI visibility check](https://app.visibly-ai.com/check): how often AI models name your brand, and what it costs you
 
 | Repo | What it does |
 |------|-------------|
 | [visiblyai-mcp-server](https://github.com/AntonioBlago/visiblyai-mcp-server) | MCP server v0.13.0 with 84 tools for SEO analysis, project data and content workflows. Available on [PyPI](https://pypi.org/project/visiblyai-mcp-server/). |
+| [Visibly AI CMS Connector](https://github.com/AntonioBlago/visibly-ai-cms-connector) | Python SDK connecting your CMS to Visibly through signed webhooks, the Pull API and publication confirmation. Install with `pip install ai-content-autopilot`. |
+| [anyCMS](https://github.com/AntonioBlago/anycms) | Concrete CMS use cases for WordPress, Astro, Next.js and Flask. |
+
+The plugins connect **your AI assistant to Visibly**; the CMS connector connects
+**your application to Visibly's article API**; anyCMS demonstrates the CMS-side
+implementations. Saving a draft and publishing it are separate steps.
+[How they work together](https://github.com/AntonioBlago/visibly-ai-cms-connector/blob/master/docs/INTEGRATION_DE.md).
 
 ### Download the Visibly plugins
 
