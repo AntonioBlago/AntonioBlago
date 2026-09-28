@@ -1,5 +1,11 @@
 # Visibly-Links im GitHub-Profil
 
+- Markenname in gepflegten Texten immer **Neuro-SEO-System®** schreiben, auch
+  auf Englisch. URLs, technische Kennungen und originale Quelldaten beibehalten.
+
+Namenspflege 2026-09-28: Profil-Linktext und diese Regel vereinheitlicht.
+Nur Dokumentation; NSS-/Grundlagen-URLs und veröffentlichte Paketversionen unverändert.
+
 Vor Änderungen an Plugin-, MCP- oder Downloadangaben die
 [gemeinsame Agent-Übergabe](https://github.com/AntonioBlago/visiblyai-mcp-server/blob/master/docs/PLUGIN_MCP_HANDOFF.md)
 und die [Installationsanleitung](https://github.com/AntonioBlago/visiblyai-mcp-server/blob/master/PLUGINS.md)
@@ -16,7 +22,7 @@ Nach Änderungen Release-Links prüfen und die gemeinsame Übergabe datiert erg�
 live prüfen, danach den Profil-Link pushen. Noch kein Push; Versionen und
 Download-Links unverändert. Gemeinsame Übergabe enthält die lokalen Prüfbelege.
 
-Nachtrag 2026-09-28, lokal: Profil nennt Antonio Blagos Neuro-SEO System® als
+Nachtrag 2026-09-28, lokal: Profil nennt Antonio Blagos Neuro-SEO-System® als
 methodische Grundlage des NSS und verlinkt die Originalseite unter
 `https://www.antonioblago.com/de/neuro-seo-system/` (HTTP 200/Canonical geprüft).
 Weiterhin kein Push oder Versionswechsel.

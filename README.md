@@ -21,7 +21,7 @@ SEO analysis platform with AI copilot, built for SEO freelancers and agencies. C
 - E-E-A-T tracking, keyword classification, revenue attribution
 - 84 MCP tools for Claude Code, OpenAI Codex, GitHub Copilot and other MCP clients, with local (PyPI) or remote transport
 - Article optimization skill: your agent writes, Visibly measures [NSS (Neuro-SEO Score)](https://www.visibly-ai.com/nss-score), the agent improves the draft toward your target and returns the editor link
-- NSS builds on my [Neuro-SEO System®](https://www.antonioblago.com/de/neuro-seo-system/) (German overview), combining search engine optimization with buying psychology
+- NSS builds on my [Neuro-SEO-System®](https://www.antonioblago.com/de/neuro-seo-system/) (German overview), combining search engine optimization with buying psychology
 - Free [AI visibility check](https://app.visibly-ai.com/check): how often AI models name your brand, and what it costs you
 
 | Repo | What it does |
